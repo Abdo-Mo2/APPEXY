@@ -1,0 +1,4 @@
+/* Home component styles */
+.dot {
+  transition: background-color 200ms ease-in-out;
+}
